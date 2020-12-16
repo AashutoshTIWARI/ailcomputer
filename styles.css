@@ -1,0 +1,22 @@
+body {
+    background-color: #AFEEEE;
+  }
+h2 {
+    color:teal;
+}
+h1{
+    color: darkslategray;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+a{
+    color: teal;
+}
+a:hover{
+    color: black;
+}
+h3{
+    text-align: center;
+    font-size: large;
+
+}
